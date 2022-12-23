@@ -6,6 +6,7 @@ This is a web based application developed for Health
 
 
 **Project Link** - https://thankful-pond-00126b610.2.azurestaticapps.net
+
 **Project Demo (Video) Link**
 
 ## Features and Functionalities 😃
