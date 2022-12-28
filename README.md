@@ -6,9 +6,12 @@ This is a web based application developed for Health
 
 
 **Project Link** - https://thankful-pond-00126b610.2.azurestaticapps.net
-**Project Demo (Video) Link** -
+
+**Project Demo (Video) Link** - https://youtu.be/Vyk6et726fI
+
 **Project Link (Health BOT)** - https://thankful-pond-00126b610.2.azurestaticapps.net/health.html
-**Project Demo (Health BOT Video) Link** -
+
+**Project Demo (Health BOT Video) Link** - https://youtu.be/Vyk6et726fI
 
 Health Bot Video demo link and website demo link are presented in same youtube video.
 
