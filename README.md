@@ -25,9 +25,12 @@ Health Bot Video demo link and website demo link are presented in same youtube v
  
  Health Bot Working picture
  Implentation:
+ 
  ![vlcsnap-2022-12-28-14h54m22s248](https://user-images.githubusercontent.com/110970350/209789669-1acc2eca-d085-4b86-af2b-57f41799e995.png)
 ![vlcsnap-2022-12-28-14h55m50s771](https://user-images.githubusercontent.com/110970350/209789842-adbf94dd-92ea-47a0-a46b-4459799965ac.png)
-Working 
+
+Working (Using the command - Appointment)
+
 ![vlcsnap-2022-12-28-14h56m55s404](https://user-images.githubusercontent.com/110970350/209789958-668925cb-0977-4c54-b4c4-4ed52c91fa18.png)
 ![vlcsnap-2022-12-28-14h57m21s912](https://user-images.githubusercontent.com/110970350/209789999-4ba48b11-88c8-41d8-b8a6-55acb72ecd33.png)
 ![vlcsnap-2022-12-28-14h58m01s022](https://user-images.githubusercontent.com/110970350/209790096-d5b1a67c-c7f3-4340-8f89-85abb361c46e.png)
